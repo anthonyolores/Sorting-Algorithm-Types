@@ -2,9 +2,8 @@ This code composed of 3 sorting algorithms namely Bubble, Insertion and Selectio
 
 Algorithm Complexity
 
-----------------------------------------------------
+
 Algorithm      Best       Worst      Average
-----------------------------------------------------
 Bubble         O(n)       O(n2)       O(n2)  
 Selection      O(n2)      O(n2)       O(n2)        
 Insertion      O(n)       O(n2)       O(n2)    
