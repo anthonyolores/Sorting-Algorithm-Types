@@ -3,10 +3,10 @@ This code composed of 3 sorting algorithms namely Bubble, Insertion and Selectio
 Algorithm Complexity
 
 
-Algorith       Best       Worst       Average
-Bubble         O(n)       O(n2)       O(n2)  
-Selection      O(n2)      O(n2)       O(n2)        
-Insertion      O(n)       O(n2)       O(n2)    
+Algorith | Best | Worst | Average
+Bubble | O(n)  | O(n2) | O(n2)  
+Selection | O(n2) | O(n2) | O(n2)        
+Insertion | O(n) | O(n2) | O(n2)    
 
 Roughly the complexities are almost the same. 
 But they have different ways on sorting an array.
